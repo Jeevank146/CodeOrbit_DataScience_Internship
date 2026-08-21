@@ -114,7 +114,7 @@ In this task, retail sales data was analyzed to understand sales trends and pred
 
 The original retail sales dataset is available on Kaggle:
 
-**[Retail Sales Forecasting Data – Kaggle](https://www.kaggle.com/datasets/svizor/retail-sales-forecasting-data)**
+**[Retail Sales Forecasting Data – Kaggle](https://www.kaggle.com/datasets/svizor/retail-sales-forecasting-data?select=sales.csv)**
 
 The original `sales.csv` file is large, so it is not uploaded directly to this GitHub repository.
 
