@@ -149,7 +149,7 @@ The analysis provides a clear understanding of sales patterns and trends. These 
 
 #### Dataset
 
-**[Retail Sales Forecasting Data – Kaggle](https://www.kaggle.com/datasets/svizor/retail-sales-forecasting-data)**
+**[Retail Sales Forecasting Data – Kaggle]([https://www.kaggle.com/datasets/](https://www.kaggle.com/datasets/svizor/retail-sales-forecasting-data?select=sales.csv))**
 
 #### File
 
